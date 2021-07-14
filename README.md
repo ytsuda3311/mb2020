@@ -37,3 +37,4 @@ HTML / CSS(SCSS) / jQuery / PHP
 ○「[All-in-One WP Migration](https://ja.wordpress.org/plugins/all-in-one-wp-migration/)」<br>
 ○「[Show Current Template](https://ja.wordpress.org/plugins/show-current-template/)」<br>
 ○「[Yoast Duplicate Post](https://ja.wordpress.org/plugins/duplicate-post/)」
+○「[WP Super Cache](https://ja.wordpress.org/plugins/wp-super-cache/)」
