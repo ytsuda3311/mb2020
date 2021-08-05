@@ -30,8 +30,12 @@ $nav-color: #421F15;
 $main-btn-color: #C63205;
 
 // font-family
+@font-face {
+    font-family: 'Futura Condensed Medium';
+    src: url(../font/Futura-CondensedMedium-04.ttf);
+}
 @import url('https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&display=swap');
-$font-family-english: 'Hind', sans-serif;
+$font-family-english: 'Futura Condensed Medium', sans-serif;
 $font-family-japanese: "Hiragino Kaku Gothic ProN", "Meiryo", sans-serif;
 
 * {
@@ -122,7 +126,6 @@ a:hover {
     text-align: center;
     font-size: 43px;
     font-family: $font-family-english;
-    font-weight: bold;
     line-height: 1.2;
     padding-bottom: 7px;
 
